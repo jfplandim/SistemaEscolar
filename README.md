@@ -4,5 +4,5 @@ Período: 2
 Turma: Borg
 Alunos partcipantes: 
 Jose Francisco Paes Landim Sobrinho
-Ricardo Ruben Cronemberger
+Ricardo Cronemberger Cruz Ruben Pereira
 João Guilherme Aragão Malta            
